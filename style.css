@@ -41,9 +41,10 @@ nav a {
 
 #details div {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   float: left;
   background-color: red;
   width: 25%;
-  margin-left: auto;
-  margin-right: auto;
+
 }
