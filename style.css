@@ -42,4 +42,5 @@ nav a {
 #details div {
   display: block;
   float: left;
+  vertical-align: center;
 }
