@@ -43,4 +43,6 @@ nav a {
   display: block;
   float: left;
   vertical-align: center;
+  background-color: blue;
+  
 }
